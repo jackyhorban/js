@@ -1,1 +1,1 @@
-window.location.href = "https://boir.us.com/file";
+window.location.href = "https://boir.us.com";
